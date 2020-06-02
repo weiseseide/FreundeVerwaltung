@@ -1,0 +1,9 @@
+﻿<itb:ApplicationBase x:Class="FreundeVerwaltung.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:FreundeVerwaltung"
+             StartupUri="MainWindow.xaml"
+             xmlns:itb="clr-namespace:Itb.Core.GUI;assembly=Itb.Core">
+    <itb:ApplicationBase.Resources>
+    </itb:ApplicationBase.Resources>
+</itb:ApplicationBase>
